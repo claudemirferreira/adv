@@ -1,10 +1,10 @@
-package com.setebit.adv;
+package com.setebit.advocacia;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AdvApplicationTests {
+class AdvocaciaApplicationTests {
 
 	@Test
 	void contextLoads() {

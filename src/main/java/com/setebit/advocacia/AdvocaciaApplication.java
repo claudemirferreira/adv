@@ -1,13 +1,13 @@
-package com.setebit.adv;
+package com.setebit.advocacia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdvApplication {
+public class AdvocaciaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AdvApplication.class, args);
+		SpringApplication.run(AdvocaciaApplication.class, args);
 	}
 
 }
